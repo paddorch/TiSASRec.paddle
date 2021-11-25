@@ -1,0 +1,17 @@
+batch_size,128
+dataset,ml-1m
+device,gpu
+dropout_rate,0.2
+eval_freq,20
+hidden_units,50
+inference_only,True
+l2_emb,5e-05
+log_freq,10
+lr,0.001
+maxlen,50
+num_blocks,2
+num_epochs,201
+num_heads,1
+state_dict_path,./ml-1m_default/TiSASRec.epoch=120.lr=0.001.layer=2.head=1.hidden=50.maxlen=50.pth
+time_span,2048
+train_dir,default
