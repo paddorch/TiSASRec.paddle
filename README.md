@@ -12,7 +12,7 @@ A PaddlePaddle implementation of Time Interval Aware Self-Attentive Sequential R
 
 | Datasets     | Metrics | Paper's | Ours   | abs. improv. |
 | ------------ | ------- | ------- | ------ | ------------ |
-| MovieLens-1m | HIT@10  | 0.8038  | 0.8050 | 0.0022       |
+| MovieLens-1m | HIT@10  | 0.8038  | 0.8050 | 0.0012       |
 | MovieLens-1m | NDCG@10 | 0.5706  | 0.5752 | 0.0046       |
 
 ## Requirement
